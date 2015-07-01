@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoogleImageSearch</string>
+
+    <string name="search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchQuery">Enter Search Query</string>
+    <string name="imageTitle">Title</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
